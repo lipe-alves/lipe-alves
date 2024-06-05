@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, my name is Felipe
+#### I am Fullstack Web Developer
+![I am Fullstack Web Developer](https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/img/grid-snake.svg)
 
-<!--
-**lipe-alves/lipe-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: REACT | NODE | NEXT | SASS | TYPESCRIPT | MYSQL | MONGODB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lipe-alves)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-alves-90349a208//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipe-alves)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lipe-alves&show_icons=true&count_private=true)  
+
